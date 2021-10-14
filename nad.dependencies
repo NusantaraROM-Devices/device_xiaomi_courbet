@@ -1,0 +1,26 @@
+[
+  {
+    "remote":"github",
+    "repository":"BayerischeMotorenWerke/device_xiaomi_sm6150-common",
+    "target_path":"device/xiaomi/sm6150-common",
+    "branch":"11"
+  },
+  {
+   "remote":"github",
+    "repository":"BayerischeMotorenWerke/vendor_xiaomi_courbet",
+    "target_path":"vendor/xiaomi/courbet",
+    "branch":"11"
+  },
+  {
+   "remote":"github",
+    "repository":"BayerischeMotorenWerke/vendor_xiaomi_sm6150-common",
+    "target_path":"vendor/xiaomi/sm6150-common",
+    "branch":"11"
+  },
+  {
+   "remote":"github",
+    "repository":"BayerischeMotorenWerke/kernel_xiaomi_sm6150",
+    "target_path":"kernel/xiaomi/sm6150",
+    "branch":"11"
+  }
+]

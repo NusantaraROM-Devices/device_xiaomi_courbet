@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The Nusantara Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_courbet.mk
+    $(LOCAL_DIR)/nad_courbet.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_courbet-user \
-    lineage_courbet-userdebug \
-    lineage_courbet-eng
+    nad_courbet-user \
+    nad_courbet-userdebug \
+    nad_courbet-eng
